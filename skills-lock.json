@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "skills": {
+    "chef-assistant": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/malicious_skill/SKILL.md",
+      "computedHash": "8b2eacf0dadbaebff112c4a4b24f7a5f69c6329a130367371ee5041fe05684e0"
+    },
+    "code-formatter": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/mcp_clean_skill/SKILL.md",
+      "computedHash": "c05821267bf8caf4a96f4bdc95c6638619e76bd30a94287b5ffb1dc954574c93"
+    },
+    "code-reviewer": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/ssd/ssd_clean/SKILL.md",
+      "computedHash": "74532e9c13b9376c7fc1d2a5223bf1728b245d974361e48fad8dc8178d5eec1e"
+    },
+    "config-reader": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/sdi/sdi3_scope_creep/SKILL.md",
+      "computedHash": "b0a627d83322e43e26a52df4ad3211b2e12d64177ed2909d4bd725f5a2aa5077"
+    },
+    "creative-writing-coach": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/ssd/ssd2_novel_phrasing/SKILL.md",
+      "computedHash": "c93a6653986148ad233fea16a50b03dc2f522f4036b082a8e09e3a3e97948090"
+    },
+    "data-processor": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/sdi/sdi4_divergence/SKILL.md",
+      "computedHash": "f22d95857b0329c64cf2760ddf6be4581b0ac43b0ccbc4230bcf22704451047d"
+    },
+    "deploy-service": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/sqp/sqp2_clean/SKILL.md",
+      "computedHash": "a8abb022e547482f4571a5e4b6e9551bf35a9a601b4d8d483380b1a4391a30da"
+    },
+    "file-indexer": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/sdi/sdi_clean/SKILL.md",
+      "computedHash": "94450338959155cb9afa8b3a689988d070096cdfdbb77d0d6176fa8ae8ff322a"
+    },
+    "file-organizer": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/sqp/sqp2_missing_warnings/SKILL.md",
+      "computedHash": "99172dc1a7ee40f5bf53d54035cfc10d21d4995dbe3ea6c500b1affded5284e7"
+    },
+    "friendly-greeter": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/mcp_mismatched_skill/SKILL.md",
+      "computedHash": "cc97694f8ba5f143bd8e37c9c217c4e8ac67354fe78cf3154e04def54c6e2dd5"
+    },
+    "general-assistant": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/sqp/sqp1_vague_triggers/SKILL.md",
+      "computedHash": "6d4c12a9a7759c1cd49a0a1898a4a0919504da9c32ba3591bfa31ed6418baf4b"
+    },
+    "helpful-formatter": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/ssd/ssd1_semantic_injection/SKILL.md",
+      "computedHash": "c9efe17231ee3b62b5790f229bbcc48f0df313ae2aa4107b62840147448d2e58"
+    },
+    "jp-compliance-reporter": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/sqp/sqp3_clean/SKILL.md",
+      "computedHash": "e7c25b5a22354869ac0dfc218152337e79fc6be00cb807e9a84d436af22c105b"
+    },
+    "markdown-formatter": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/sdi/sdi2_inappropriate/SKILL.md",
+      "computedHash": "4bf52eb579ad39e3c200ca7abdeec7aaf543b8350bf919961746c2a1345736c4"
+    },
+    "onboarding-guide": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/ssd/ssd4_narrative_deception/SKILL.md",
+      "computedHash": "cddc9a2e5127026d9b8294d29f2dbab5b45112f67bb703f4bd925761223634bd"
+    },
+    "over-privileged-helper": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/mcp_overprivileged_skill/SKILL.md",
+      "computedHash": "e2050eaca5e2f2f01b9a73de2aeab8b85c5fcbe0aceaeeac30fef708ccb9f2c4"
+    },
+    "personal-assistant": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/ssd/ssd3_nl_exfiltration/SKILL.md",
+      "computedHash": "e6260f3fd2d6bdb6ac2e3923f46e50a9c10f9853d49688425bfc631d47dcfa20"
+    },
+    "report-generator": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/sqp/sqp3_locale_forcing/SKILL.md",
+      "computedHash": "b386341b4c23ef443668246ee4f39bee04d876ef38e43746261e6539d160f540"
+    },
+    "reаd_data": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/mcp_poisoned_tool/SKILL.md",
+      "computedHash": "004a911f1e89209a0c26c271d14f7bb1e4af5b463cbfc9c82b6d3072e26af93c"
+    },
+    "safe-greeting": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/safe_skill/SKILL.md",
+      "computedHash": "c5c54478fe99bb2108af156265e19fd7b0d46de51f04de0c0843d520b608d702"
+    },
+    "terraform-deployer": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/sqp/sqp1_clean/SKILL.md",
+      "computedHash": "3fefbb687f5e480b8e7745cac2119c7f887020409503bd957d5a2012e4db560d"
+    },
+    "text-summarizer": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/sdi/sdi1_mismatch/SKILL.md",
+      "computedHash": "a69f8725e374afcc5ecbfa606f285a6f0f8f881bb6e246e152ea2f80a245d181"
+    },
+    "underdeclared-agent": {
+      "source": "NVIDIA/SkillSpector",
+      "sourceType": "github",
+      "skillPath": "tests/fixtures/mcp_underdeclared_skill/SKILL.md",
+      "computedHash": "23bd54b56d6fec510710c21f6e8ee2c381e32ac6315e626377d4f55253167fe0"
+    }
+  }
+}
